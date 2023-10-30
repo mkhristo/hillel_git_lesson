@@ -1,1 +1,2 @@
 A quick brown fox jumps over lazy dog
+The lazy dog woke up and chased the quick brown fox through the field.
